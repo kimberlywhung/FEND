@@ -1,0 +1,50 @@
+body {
+	font-family: 'Arapey', Georgia, serif;
+	font-variant: small-caps;
+	letter-spacing: normal;
+	color: #434343;
+}
+h1 {
+	font-size: 5em;
+	line-height: 1;
+	text-align: right;
+}
+h3 {
+	text-align: right;
+}
+h2 {
+	line-height: 2;
+	font-size: 3em;
+}
+.logo-image {
+	width: 150px;
+}
+.cover-image {
+	width: 100%
+}
+hr {
+	display: block;
+	border-color: #510012;
+	border-width: 10px;
+	height: 2px;
+	width: 97%;
+}
+.small-images {
+	width: 95%;
+}
+p {
+	font-size: 2em;
+	text-align: center;
+}
+.wtbd {
+	padding-top: 130px;
+}
+a.links {
+	font-size: 1em;
+	color: #434343;
+	align-content: center;
+}
+footer {
+	margin-left: 24%;
+	margin-right: 24%;
+}
