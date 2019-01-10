@@ -1,20 +1,18 @@
 # Memory Game Project
+This is a JS based matching game where the player must rely on memory in order to find matches and win the game. There are a total of 8 pairs to be found. To recieve the highest number of stars, and thus the best score, the player must finish the game within 10 moves.
 
-## Table of Contents
+## How to Run the Game
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* Download the zip file and open the index.html
+* Clone the project and do as above
+* View the project [here](https://codepen.io/kymmbear/pen/zyJaMd)
 
-## Instructions
+## How to play
+* Click the tiles and hope for the best!
+* At first click, the timer and move counter will begin
+* Try the restart button if you'd like to try again.
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Dependencies
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+* [Google Fonts](https://fonts.googleapis.com/css?family=Arapey)
+* [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/95/Vichy_Gewebe.pngc)
