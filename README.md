@@ -1,23 +1,20 @@
-# FEND
+# Classic Arcade Game Clone Project
 
-This comprises of projects from the Udacity Front-End Nanodegree program.
+## Table of Contents
 
-  - Project folders 
-  - Version history 
-  - Usage
+- [Instructions](#instructions)
+- [Contributing](#contributing)
 
-# Project Folders
-Each project is indicated by the letter 'P' and its corresponding project number. This particular program has seven projects.
-- P1_Portfolio
-- P2_Memory Game
-- P3_Arcade Game
-- P4_Feed Reader Testing 
-- P5_ Improve LinkedIn Profile
-- P6_Optimize GitHub Profile
-- P7_Restaurant Reviews App
- 
-# Version History
-Projects are rarely perfect the first go around, so project revisions will be uploaded as new folders with an indicated version number.
+## Instructions
 
-# Usage
-Products of each project are for private use only, with the primary purpose of completing nanodegree requirements. 
+Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+
+Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+
+Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+
+For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
